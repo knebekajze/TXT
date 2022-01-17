@@ -1,0 +1,3 @@
+Skills:
+    Hard_skills: Knowledge of theory of testing, KANBAN, SCRUM, AGILE, Postman, Git, Python
+    Soft_skills: user centered point of view, good communication skills, team work experience
